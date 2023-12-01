@@ -1,0 +1,41 @@
+.background {
+    background-color: rgb(87, 94, 94);
+    color: whitesmoke;
+}
+
+.heading1 {
+    text-align: center;
+    background-color: rgb(53, 45, 45);
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px;
+}
+
+.image {
+    width: 48%; 
+    max-width: 600px; 
+}
+
+.paragraph {
+    width: 48%; 
+    text-align: justify; 
+}
+
+.logos {
+    text-align: center; 
+}
+
+.icon {
+    width: 50px; 
+    height: 50px; 
+    margin: 10px; 
+}
+
+
+
